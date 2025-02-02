@@ -1,12 +1,15 @@
 # PowerShellExercise
 2025/01 PowerShellを習得したくなったので  
-[🐹マリモのごはん🐍](https://note.com/mahalo_)さんのPowerShell100本ノックをやることにしました。  
+[🐹マリモのごはん🐍](https://note.com/mahalo_)さんのPowerShell100本ノックをやることにしました。
+
+
 なお、マリモのごはんさんのサイトには  
->Windows PowerShell 5.1   
+>前提条件  
+>\- Windows PowerShell 5.1
 
 と書かれていますが、PowerShell 7.5.0(PowerShell Core)で実施します。
 
-
+内容は以下の通りで、結果へのリンクも更新していきます。  
 [PowerShell100本ノック　1～10](https://note.com/mahalo_/n/ne1d40940d106)  
 [PowerShell100本ノック　11～20](https://note.com/mahalo_/n/n7d0986e9eca3)  
 [PowerShell100本ノック　21～30](https://note.com/mahalo_/n/n77ad1ba21beb)  
