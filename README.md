@@ -9,7 +9,7 @@
 
 と書かれていますが、PowerShell 7.5.0(PowerShell Core)で実施します。
 
-内容は以下の通りです。
+内容は以下の通りです。  
 [PowerShell100本ノック　1～10](https://note.com/mahalo_/n/ne1d40940d106)  
 [PowerShell100本ノック　11～20](https://note.com/mahalo_/n/n7d0986e9eca3)  
 [PowerShell100本ノック　21～30](https://note.com/mahalo_/n/n77ad1ba21beb)  
