@@ -16,3 +16,11 @@ PS C:\dev\PowerShellExercise\result01> .\ex002.ps1
 Hello
 World
 ```
+
+# ３．Hello World改行なし
+Write-Host を2行使い「Hello」と「World」を別々に表示しなさい。ただし改行しないプログラムを作成せよ。  
+[ex003.ps1](ex003.ps1)
+```
+PS C:\dev\PowerShellExercise\result01> .\ex003.ps1
+HelloWorld
+```
