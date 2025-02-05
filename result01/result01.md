@@ -32,7 +32,7 @@ Hello Worldと赤色で表示するプログラムを作成せよ。
 PS C:\dev\PowerShellExercise\result01> .\ex004.ps1
 Hello World
 ```
-コードブロックでは色を表現できないので、画像で結果を掲載
+コードブロックでは色を表現できないので、画像で結果を掲載  
 ![alt text](image.png)
 
 # ５．Hello World　背景色
@@ -42,4 +42,5 @@ Hello World
 PS C:\dev\PowerShellExercise\result01> .\ex005.ps1
 Hello World
 ```
+コードブロックでは色を表現できないので、画像で結果を掲載  
 ![alt text](image-1.png)
