@@ -44,3 +44,22 @@ Hello World
 ```
 コードブロックでは色を表現できないので、画像で結果を掲載  
 ![alt text](image-1.png)
+
+# ６．コメント
+Hello Worldと表示するプログラムに「Hello Worldと表示する」とコメント文を書き込んだプログラムを作成せよ。  
+[ex006.ps1](ex006.ps1)
+```
+PS C:\dev\PowerShellExercise\result01> .\ex006.ps1
+Hello World
+```
+
+# ７．四則演算
+123と456、それらの値の和、差、掛け算、割り算、余りを求めるプログラムを作成せよ。  
+[ex007.ps1](ex007.ps1)
+```
+PS C:\dev\PowerShellExercise\result01> .\ex007.ps1
+123 + 456 = 579
+123 - 456 = -333
+123 * 456 = 56088
+123 / 456 = 0.269736842105263
+```
