@@ -63,3 +63,27 @@ PS C:\dev\PowerShellExercise\result01> .\ex007.ps1
 123 * 456 = 56088
 123 / 456 = 0.269736842105263
 ```
+
+# ８．変数足し算
+変数$aに10、変数$bに3を入れて$aと$bを足し算して表示するプログラムを作成せよ  
+[ex008.ps1](ex008.ps1)
+```
+PS C:\dev\PowerShellExercise\result01> .\ex008.ps1
+$a + $b = 13
+```
+
+# ９．変数連結
+変数$aに”Fizz”、変数$bに100を入れて$aと$bを連結させて表示するプログラムを作成せよ  
+[ex009.ps1](ex009.ps1)
+```
+PS C:\dev\PowerShellExercise\result01> .\ex009.ps1
+Fizz100
+```
+
+# １０．書式付き表示
+変数$aに数値123を代入し、頭に0を付けて5桁で表示するプログラムを作成せよ  
+[ex010.ps1](ex010.ps1)
+```
+PS C:\dev\PowerShellExercise\result01> .\ex010.ps1
+00123
+```
