@@ -33,7 +33,7 @@ PS C:\dev\PowerShellExercise\result01> .\ex004.ps1
 Hello World
 ```
 コードブロックでは色を表現できないので、画像で結果を掲載  
-![alt text](image.png)
+![ex004-result](ex004-result.png)
 
 # ５．Hello World　背景色
 背景を青色でHello Worldと表示するプログラムを作成せよ。  
@@ -43,7 +43,7 @@ PS C:\dev\PowerShellExercise\result01> .\ex005.ps1
 Hello World
 ```
 コードブロックでは色を表現できないので、画像で結果を掲載  
-![alt text](image-1.png)
+![ex005-result](ex005-result.png)
 
 # ６．コメント
 Hello Worldと表示するプログラムに「Hello Worldと表示する」とコメント文を書き込んだプログラムを作成せよ。  
