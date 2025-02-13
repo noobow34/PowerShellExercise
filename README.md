@@ -23,8 +23,8 @@
 
 result01～result10のフォルダに10問ずつ、作成したps1ファイルを格納  
 各フォルダのmdファイルに問題と実行結果を記載していきます。  
-[result01](result01/result01.md)  
-[result02](result02/result02.md)  
+[result01](result01/result01.md)  ←2025/02/10完了  
+[result02](result02/result02.md)  **←2025/02/10～実施中**  
 [result03](result03/result03.md)  
 [result04](result04/result04.md)  
 [result05](result05/result05.md)  
