@@ -18,3 +18,19 @@ PS C:\dev\PowerShellExercise\result02> .\ex012.ps1
 3倍は6
 ```
 ※整数かどうかのチェック、および整数以外が入力された場合のエラー処理は行っておりません。
+
+# １３．入力と計算
+整数値を入力させ、値が正であればpositive、負であればnegative、0であればzeroと表示するプログラムを作成せよ。  
+[ex013.ps1](ex013.ps1)
+```
+PS C:\dev\PowerShellExercise\result02> .\ex013.ps1
+整数を入力してください: 0
+zero
+PS C:\dev\PowerShellExercise\result02> .\ex013.ps1
+整数を入力してください: 1
+positive
+PS C:\dev\PowerShellExercise\result02> .\ex013.ps1
+整数を入力してください: -1
+negative
+```
+※整数かどうかのチェック、および整数以外が入力された場合のエラー処理は行っておりません。
